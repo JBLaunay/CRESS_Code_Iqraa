@@ -9,6 +9,8 @@ library(dplyr)
 library(ggplot2)
 
 
+# Test pour vérifier que Git fonctionne bien
+
 ########################## DEBUT DE LA SIMULATION #####################################
 
 ### Paramètres de la simulation
