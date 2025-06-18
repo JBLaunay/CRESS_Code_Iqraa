@@ -122,7 +122,7 @@ traitement <- A[, k_max + 1]
 #   proportion = c(
 #     sapply(1:(k_max + 1), function(j) mean(temps_de_survie[traitement == 1, j] == 0)),
 #     sapply(1:(k_max + 1), function(j) mean(temps_de_survie[traitement == 0, j] == 0))
-#   )
+#   ) # Test pour le suivi des modification du 18 juin
 # )
 
 # Création des données pour l'estimateur de Kaplan-Meier
